@@ -20,27 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinbhagat&show_icons=true&locale=en&layout=compact" alt="vipinbhagat" /></p>
 
-<div style="text-align: center;">
-    <details style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-        <summary style="cursor: pointer; font-size: 24px; background-color: #4CAF50; color: white; padding: 15px; border-radius: 10px;"><strong>📊 Explore My GitHub Stats</strong></summary>
-        <div style="margin-top: 20px;">
-            <a href="https://github.com/vipinbhagat123">
-                <img src="https://github-readme-stats.vercel.app/api?username=vipinbhagat&show_icons=true&count_private=true&theme=dark" width="400" style="border-radius: 10px;">
-            </a>
-        </div>
-        <div style="margin-top: 30px;">
-            <a href="https://github.com/vipinbhagat123">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinbhagat&theme=dark" width="400" style="border-radius: 10px;">
-            </a>
-        </div>
-        <div style="margin-top: 30px;">
-            <a href="https://github.com/vipinbhagat123">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinbhagat&layout=compact&langs_count=10&theme=dark" width="400" style="border-radius: 10px;">
-            </a>
-        </div>
-        <p style="margin-top: 30px; font-size: 16px;">👉 <a href="https://github.com/vipinbhagat123" style="color: #4CAF50;">Visit my GitHub profile for more!</a></p>
-    </details>
-</div>
 
-</details>
 
